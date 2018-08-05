@@ -133,6 +133,7 @@ values."
    ;; with 2 themes variants, one dark and one light)
    dotspacemacs-themes '(doom-vibrant
                          doom-city-lights
+                         monokai
                          )
 
    ;; If non nil the cursor color matches the state color in GUI Emacs.
